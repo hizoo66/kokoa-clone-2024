@@ -50,3 +50,14 @@
 .user-component__column img {
     padding: 27px;
 }
+.user-component__more {
+    display: flex;
+    align-items: center;
+}
+.user-component__subtitle {
+    margin-right: 5px;
+}
+.user-component__more i {
+    margin-top: 10px;
+    color: red;
+}
